@@ -12,7 +12,7 @@ The main inspiration was to use an architecture similar to Fully Convolution Net
 
 Some tools such as batch normalization, dropout and L2 regulizers had to be used and hyperparameters had to be refined in order to get a correct predictions.
 
-![alt text](runs\1509724493.1589382\um_000019.PNG "Project example")
+![alt text](runs\1509724493.1589382\um_000019.png "Project example")
 
 ---
 
